@@ -2,7 +2,7 @@
 
 This repository contains code to accompany the following manuscript:
 
-Remembrance of things practiced: Fast and slow learning in cortical and subcortical pathways \
+"Remembrance of things practiced: Fast and slow learning in cortical and subcortical pathways" \
 James M. Murray and G. Sean Escola \
 Nature Communications (2020) \
 doi:XX
